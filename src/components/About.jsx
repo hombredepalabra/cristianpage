@@ -1,3 +1,5 @@
+import '../styles/About.css';
+
 function About() {
   return (
     <section id="about" className="section">
@@ -11,7 +13,7 @@ function About() {
               <p className="text-muted">
                 Diez de Agosto Highschol, Otavalo
                 <br />
-                Graduated: May 2018
+                Graduated: July 2021
               </p>
             </div>
             <div className="education-item">
@@ -24,13 +26,13 @@ function About() {
           </div>
           <div className="about-text">
             <p>
-              I am a full-stack developer with a passion for creating intuitive and user-friendly web
-              applications. I have experience working with a variety of technologies, including React, Node.js,
-              and MongoDB, and I&apos;m always eager to learn new skills to improve my craft.
+              I am a <span className="highlight">full-stack developer</span> with a passion for creating intuitive and user-friendly web
+              applications. I have experience working with a variety of technologies, including <span className="highlight">React</span>, <span className="highlight">Node.js</span>,
+              and <span className="highlight">MongoDB</span>, and I&apos;m always eager to learn new skills to improve my craft.
             </p>
             <p>
               In my free time, I enjoy exploring the great outdoors, reading about the latest advancements in
-              technology, and contributing to open-source projects. I&apos;m also an avid learner and enjoy taking
+              technology, and contributing to <span className="highlight">open-source projects</span>. I&apos;m also an avid learner and enjoy taking
               online courses to expand my knowledge.
             </p>
           </div>

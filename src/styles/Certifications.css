@@ -1,0 +1,67 @@
+
+  /* Styling the section */
+  .section {
+    padding: 60px 20px;
+  }
+  
+  /* Styling the container */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Styling the section title */
+  .section-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #f5f2f2;
+    font-weight: bold;
+  }
+  
+  /* Styling the grid */
+  .certifications-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* Styling each certification card */
+  .certification-card {
+    background-color: #2b2a2a;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(255, 254, 254);
+    overflow: hidden;
+    width: 280px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Hover effect for certification card */
+  .certification-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  /* Styling the image */
+  .certification-card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #eee;
+  }
+  
+  /* Styling the certification title */
+  .certification-card h3 {
+    font-size: 1.5rem;
+    color: #fefefe;
+    margin: 20px 0;
+  }
+  
+  /* Styling the certification description */
+  .certification-card .text-muted {
+    color: #a2a2a2;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  

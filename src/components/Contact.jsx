@@ -1,4 +1,5 @@
 import { MailIcon, PhoneIcon, LocateIcon } from './Icons';
+import '../styles/Contact.css';
 
 function Contact() {
   return (
@@ -24,6 +25,12 @@ function Contact() {
               <span>Ecuador, Otavalo</span>
             </div>
           </div>
+          <form className="contact-form">
+            <input type="text" placeholder="Your Name" required />
+            <input type="email" placeholder="Your Email" required />
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+          </form>
         </div>
       </div>
     </section>

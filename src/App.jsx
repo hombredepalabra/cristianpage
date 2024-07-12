@@ -5,7 +5,6 @@ import Projects from './components/Projects';
 import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import Background from './components/Background';
-import './styles.css';
 
 function App() {
   return (

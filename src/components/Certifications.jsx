@@ -1,3 +1,5 @@
+import '../styles/Certifications.css';
+
 function Certifications() {
   return (
     <section id="certifications" className="section">
