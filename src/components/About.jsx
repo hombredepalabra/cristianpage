@@ -28,7 +28,7 @@ function About() {
             <p>
               I am a <span className="highlight">full-stack developer</span> with a passion for creating intuitive and user-friendly web
               applications. I have experience working with a variety of technologies, including <span className="highlight">React</span>, <span className="highlight">Node.js</span>,
-              and <span className="highlight">MongoDB</span>, and I&apos;m always eager to learn new skills to improve my craft.
+              and <span className="highlight">MySQL</span>, and I&apos;m always eager to learn new skills to improve my craft.
             </p>
             <p>
               In my free time, I enjoy exploring the great outdoors, reading about the latest advancements in

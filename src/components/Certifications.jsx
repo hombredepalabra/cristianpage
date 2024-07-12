@@ -8,46 +8,61 @@ function Certifications() {
         <div className="certifications-grid">
           <div className="certification-card">
             <img
-              src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas.jpg"
+              src="https://i.imgur.com/anMfTCm.png"
               width="100"
               height="100"
-              alt="AWS Certified Developer - Associate"
+              alt="React Certification"
             />
-            <h3>AWS Certified Developer - Associate</h3>
+            <h3>React Certification</h3>
             <p className="text-muted">
-              Issued by Amazon Web Services
+              Issued by Platzi
               <br />
-              Obtained: June 2021
+              Obtained: June 2024
             </p>
           </div>
           <div className="certification-card">
             <img
-              src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas.jpg"
+              src="https://i.imgur.com/x1ZPB0w.png"
               width="100"
               height="100"
-              alt="AWS Certified Developer - Associate"
+              alt="Astro Certification"
             />
-            <h3>AWS Certified Developer - Associate</h3>
+            <h3>Astro Certification</h3>
             <p className="text-muted">
-              Issued by Amazon Web Services
+              Issued by Platzi
               <br />
-              Obtained: June 2021
+              Obtained: April 2024
             </p>
           </div>
           <div className="certification-card">
             <img
-              src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas.jpg"
+              src="https://i.imgur.com/Vmz4nfH.png"
               width="100"
               height="100"
-              alt="AWS Certified Developer - Associate"
+              alt="MySQL Certification"
             />
-            <h3>AWS Certified Developer - Associate</h3>
+            <h3>MySQL Certification</h3>
             <p className="text-muted">
-              Issued by Amazon Web Services
+              Issued by Platzi
               <br />
-              Obtained: June 2021
+              Obtained: February 2024
             </p>
           </div>
+          <div className="certification-card">
+            <img
+              src="https://i.imgur.com/7RnRVEm.png"
+              width="100"
+              height="100"
+              alt="PHP Certification"
+            />
+            <h3>PHP Certification</h3>
+            <p className="text-muted">
+              Issued by Platzi
+              <br />
+              Obtained: March 2024
+            </p>
+          </div>
+
           {/* Repeat for other certifications */}
         </div>
       </div>
