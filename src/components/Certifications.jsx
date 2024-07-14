@@ -4,7 +4,7 @@ function Certifications() {
   return (
     <section id="certifications" className="section">
       <div className="container">
-        <h2 className="section-title">Certifications</h2>
+        <h2 className="section-title">Certificados</h2>
         <div className="certifications-grid">
           <div className="certification-card">
             <img
