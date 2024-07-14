@@ -5,27 +5,29 @@ function Home() {
     <section id="home" className="section home">
       <div className="container home-content">
         <div className="home-text">
-          <h1 className="section-title">Ariel Castro</h1>
-          <h2 className="text-muted">Full-Stack Developer</h2>
+          <h1 className="section-title">Cristian Herrera</h1>
+          <h2 className="text-muted">Back-end Developer</h2>
           <p>
-            I&apos;m a passionate full-stack developer with a strong background in building modern web applications. 
-            With expertise in both front-end and back-end technologies, I love crafting intuitive user experiences 
-            and solving complex problems to create efficient, scalable solutions.
+          Como back-end developer, me especializo en la construcción y gestión de
+          la lógica del servidor, bases de datos y APIs que soportan el funcionamiento 
+          de aplicaciones web y móviles. A nivel básico, trabajo con lenguajes de programación 
+          como Python, PHP y Java, y con bases de datos como MySQL y PostgreSQL.
+
           </p>
           <div className="cta-container">
-            <a href="https://drive.google.com/file/d/1oecw8x0DMQ6VCfCBZFgsxXjHflhd9Emt/view?usp=sharing" className="cta-button" target="_blank">Download CV</a>
+            <a href="" className="cta-button" target="_blank">Download CV</a>
             <div className="social-links">
-              <a href="https://github.com/ariels875" target="_blank" rel="noopener noreferrer">
+              <a href="" target="_blank" rel="noopener noreferrer">
                 <FaGithub size={24} />
               </a>
-              <a href="https://linkedin.com/in/ariels875" target="_blank" rel="noopener noreferrer">
+              <a href="" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin size={24} />
               </a>
             </div>
           </div>
         </div>
         <div className="home-image">
-          <img src="https://i.imgur.com/fli08dk.png" width="300" height="300" alt="Ariel Castro" />
+          <img src="https://i.imgur.com/6900Hq9.png" width="300" height="300" alt="Cristian Herrera" />
         </div>
       </div>
     </section>

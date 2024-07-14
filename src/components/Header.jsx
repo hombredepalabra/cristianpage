@@ -51,14 +51,14 @@ function Header() {
       <div className="container header-content">
         <a href="#" className="logo">
           <ArielsIcon />
-          <span>Ariel Castro</span>
+          <span>Devs</span>
         </a>
         <nav className="nav">
-          <NavLink href="#home">Home</NavLink>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#certifications">Certifications</NavLink>
-          <NavLink href="#contact">Contact</NavLink>
+          <NavLink href="#home">Inicio</NavLink>
+          <NavLink href="#about">Sobre mi</NavLink>
+          <NavLink href="#projects">Proyectos</NavLink>
+          <NavLink href="#certifications">Certificados</NavLink>
+          <NavLink href="#contact"></NavLink>
         </nav>
         <div className="mobile-menu">
           <button onClick={() => setIsMenuOpen(!isMenuOpen)}>
